@@ -54,8 +54,7 @@ button{
     background-color: rgb(13, 27, 42);
     color: #e0e1dd;
     
-    -webkit-box-shadow: -1px 1px 30px -5px rgba(0, 0, 0, 0.2);
-    -moz-box-shadow: -1px 1px 30px -5px rgba(0, 0, 0, 0.2) ;
+    
     box-shadow: -1px 1px 30px -5px rgba(0, 0, 0, 0.2);
     
 }
