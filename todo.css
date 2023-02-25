@@ -10,8 +10,9 @@ h1{
 }
 
 form{
-    display: flex;
+   /* display: flex;  */
     margin-bottom: 20px;
+    margin-left: 35%;
     
 }
 
@@ -37,6 +38,8 @@ form button{
 ul {
     padding: 0;
     list-style: none;
+    margin-left: 35%;
+    width: 500px;
 }
 
 li {
